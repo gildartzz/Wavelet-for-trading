@@ -51,32 +51,26 @@ The Daubechies 8 wavelet is used for its good frequency localization properties.
 
 ## Future Updates
 
-1. Interactive Visualization:
-   - Implement an interactive plot using Plotly or Bokeh
-   - Allow users to zoom in/out and select specific date ranges
 
-2. Real-time Analysis:
-   - Set up a system to perform wavelet analysis on streaming market data
-
-3. Multi-Asset Analysis:
+1. Multi-Asset Analysis:
    - Extend the analysis to multiple assets or indices for comparative studies
 
-4. Machine Learning Integration:
+2. Machine Learning Integration:
    - Use wavelet coefficients as features for predictive models
    - Implement anomaly detection based on unusual wavelet patterns
 
-5. Performance Optimization:
+3. Performance Optimization:
    - Optimize the code for handling larger datasets
    - Implement parallel processing for analyzing multiple assets simultaneously
 
-6. Additional Wavelet Families:
+4. Additional Wavelet Families:
    - Implement options for different wavelet families (e.g., Morlet, Mexican Hat)
    - Provide comparisons of results using different wavelets
 
-7. Trading Strategy Backtesting:
+5. Trading Strategy Backtesting:
    - Develop and backtest trading strategies based on wavelet analysis insights
 
-8. Economic Indicator Correlation:
+6. Economic Indicator Correlation:
    - Analyze correlations between wavelet components and economic indicators
 
 
